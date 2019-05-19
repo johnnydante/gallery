@@ -98,7 +98,40 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
 	box-sizing: border-box;
 }
 .my-menu {
-  font-size: 20px!important;
+  font-size: 18px!important;
+  letter-spacing: 2px;
+  word-spacing: 2px;
+}
+
+.my-logout {
+  position: fixed;
+  top: 15px;
+  right: 15px;
+}
+
+.add-photo {
+  margin-left: 15px;
+  margin-top: -70px;
+}
+
+.deletePhoto {
+  position: absolute;
+  font-size: 25px;
+  right: 15px;
+  top: 10px;
+  color: red;
+}
+
+.editPhoto {
+  position: absolute;
+  font-size: 25px;
+  right: 55px;
+  top: 10px;
+  color: dodgerblue;
+}
+
+.editPhoto:hover {
+  color: dodgerblue;
 }
 
 body, html {

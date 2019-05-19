@@ -4,6 +4,8 @@
     <title>Gallery</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
     <!--===============================================================================================-->
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet">
     <!--===============================================================================================-->
@@ -104,7 +106,17 @@
                         </ul>
                     </nav>
                 </div>
+                @if(Auth::user())
+                    <a  href="{{ route('logout') }}"  class="my-logout btn btn btn-outline-danger"
+                        onclick="event.preventDefault();
+                                                     document.getElementById('logout-form').submit();">
+                        <span>Wyloguj</span>
+                    </a>
 
+                    <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
+                        @csrf
+                    </form>
+                @endif
                 <!-- Social -->
                 <div class="social flex-w flex-l-m p-r-20">
                     {{--    <a href="#"><i class="fa fa-tripadvisor" aria-hidden="true"></i></a>
@@ -201,7 +213,9 @@
         Galeria tortów
     </h2>
 </section>
-
+<div class="col-md-4 t-center" style="margin-left: auto; margin-right: auto;">
+    @include('flash-messages')
+</div>
 <!-- Gallery -->
 <div class="section-gallery p-t-118 p-b-100">
     {{--<div class="wrap-label-gallery filter-tope-group mysize flex-w flex-sb-m m-l-r-auto flex-col-c-sm p-l-15 p-r-15 m-b-60">
@@ -241,6 +255,12 @@
             </span>
         </button>
     </div>--}}
+
+    @auth
+        <a href="{{ route('addPhoto') }}" class="add-photo btn btn btn-outline-warning">
+            <span>Dodaj zdjęcie</span>
+        </a>
+    @endauth
         <div class="wrap-gallery isotope-grid flex-w p-l-25 p-r-25">
             @foreach($photos as $photo)
                 <div class="item-gallery isotope-item bo-rad-10 hov-img-zoom {{ $photo->tag }}">
@@ -250,6 +270,16 @@
                     <div class="overlay-item-gallery trans-0-4 flex-c-m">
                         <a class="btn-show-gallery flex-c-m fa fa-search" href="{{ $photo->filename }}" data-lightbox="gallery"></a>
                     </div>
+                    @auth
+                        <a onclick="return confirm('Czy napewno chcesz usunąć to zdjęcie?')"
+                           href="{{ route('deletePhoto', ['id' => $photo->id]) }}" class="deletePhoto">
+                            <i class="fas fa-times"></i>
+                        </a>
+                        <a onclick="return confirm('Czy napewno chcesz edytować to zdjęcie?')"
+                           href="{{ route('editPhoto', ['id' => $photo->id]) }}" class="editPhoto">
+                            <i class="fas fa-edit"></i>
+                        </a>
+                    @endauth
                 </div>
             @endforeach
         </div>
@@ -375,7 +405,7 @@
             <div class="col-sm-6 col-md-4 p-t-50">
                 <!-- - -->
                 <h4 class="txt13 m-b-38">
-                    Gallery
+                    Galeria tortów
                 </h4>
 
                 <!-- Gallery footer -->
