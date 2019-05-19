@@ -15,7 +15,7 @@
                         <form method="POST" action="{{ route('editSubmitPhoto') }}" enctype="multipart/form-data">
                             @csrf
                             <div style="text-align: center;">
-                                <img src="{{ url('/').'/'.$photo->filename }}" alt="IMG-GALLERY" width="292" height="203">
+                                <img src="{{ url('/').'/'.$photo->filename }}" alt="IMG-GALLERY" width="292">
                             </div>
 
                             <input type="hidden" value="{{ $photo->id }}" name="id" id="id">
