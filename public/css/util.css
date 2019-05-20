@@ -3003,14 +3003,15 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 }
 
 .tit6 {
-	font-family: Poppins;
-	font-weight: 500;
-	font-size: 50px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-weight: 100;
+	font-size: 70px;
+    text-transform: uppercase;
 	line-height: 1.2;
 	color: white;
-	text-transform: uppercase;
 	letter-spacing: 8px;
 	word-spacing: 8px;
+    color: #fffce5;
 }
 
 .tit7 {

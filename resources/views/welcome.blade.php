@@ -106,8 +106,13 @@
                         </ul>
                     </nav>
                 </div>
-                @if(Auth::user())
-                    <a  href="{{ route('logout') }}"  class="my-logout btn btn btn-outline-danger"
+
+                @auth
+                    <a href="{{ route('addPhoto') }}" class="add-photo btn btn btn-warning">
+                        <span>Dodaj zdjęcie</span>
+                    </a>
+
+                    <a  href="{{ route('logout') }}"  class="my-logout btn btn btn-danger"
                         onclick="event.preventDefault();
                                                      document.getElementById('logout-form').submit();">
                         <span>Wyloguj</span>
@@ -116,7 +121,7 @@
                     <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
                         @csrf
                     </form>
-                @endif
+                @endauth
                 <!-- Social -->
                 <div class="social flex-w flex-l-m p-r-20">
                     {{--    <a href="#"><i class="fa fa-tripadvisor" aria-hidden="true"></i></a>
@@ -210,7 +215,7 @@
 <!-- Title Page -->
 <section class="bg-title-page flex-c-m p-t-160 p-b-80 p-l-15 p-r-15" style="background-image: url('images/intro.jpg');">
     <h2 class="tit6 t-center">
-        Galeria tortów
+        Galeria <br> tortów
     </h2>
 </section>
 <div class="col-md-4 t-center" style="margin-left: auto; margin-right: auto;">
@@ -256,11 +261,7 @@
         </button>
     </div>--}}
 
-    @auth
-        <a href="{{ route('addPhoto') }}" class="add-photo btn btn btn-outline-warning">
-            <span>Dodaj zdjęcie</span>
-        </a>
-    @endauth
+
         <div class="wrap-gallery isotope-grid flex-w p-l-25 p-r-25">
             @foreach($photos as $photo)
                 <div class="item-gallery isotope-item bo-rad-10 hov-img-zoom {{ $photo->tag }}">

@@ -105,13 +105,14 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
 
 .my-logout {
   position: fixed;
-  top: 15px;
-  right: 15px;
+  top: 55px;
+  right: 33px;
 }
 
 .add-photo {
-  margin-left: 15px;
-  margin-top: -70px;
+  position: fixed;
+  top: 11px;
+  right: 15px;
 }
 
 .deletePhoto {
@@ -135,7 +136,7 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
 }
 
 body, html {
-  background-color: #3e211f;
+  background-image: url('../images/bg.jpg');
   height: 100%;
   font-family: Montserrat, sans-serif;
   font-weight: 400;
@@ -1471,12 +1472,13 @@ body {padding-right: 0px !important;}
 */
 .bg-title-page {
   width: 100%;
-  min-height: 125px;
+  min-height: 665px;
   padding-left: 15px;
   padding-right: 15px;
   background-repeat: no-repeat;
   background-position: center 0;
   background-size: cover;
+  box-shadow:0 6px 6px -6px #666;
 }
 
 @media (max-width: 576px) {
@@ -1484,6 +1486,7 @@ body {padding-right: 0px !important;}
   .bg-title-page .tit6 {margin-top:  55px;}
   .bg-title-page {margin-bottom: -60px;}
   .bg-title-page {margin-top: -120px;}
+  .bg-title-page {min-height: 465px;}
 }
 
 
@@ -1556,9 +1559,13 @@ body {padding-right: 0px !important;}
 
 .item-gallery {
   width: calc( (100% - 170px) / 4 ) ;
-  filter: brightness(90%);
   margin: 30px 15px;
   position: relative;
+  box-shadow:1px 1px 2px #666;
+}
+
+.item-gallery:hover {
+  box-shadow:1px 1px 2px darkgray;
 }
 
 .overlay-item-gallery {
