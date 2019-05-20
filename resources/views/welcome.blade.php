@@ -410,7 +410,7 @@
 
                 <!-- Gallery footer -->
                 <div class="wrap-gallery-footer flex-w">
-                    @for($i=0; $i<16; $i++)
+                    @for($i=0; $i<(count($birthday)>16 ? 16 : count($birthday)); $i++)
                         <a class="item-gallery-footer wrap-pic-w" href="{{ $birthday[$i]['filename'] }}" data-lightbox="gallery-footer">
                             <img src="{{ $birthday[$i]['filename'] }}" alt="GALLERY">
                         </a>
