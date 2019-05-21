@@ -103,6 +103,10 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
   word-spacing: 2px;
 }
 
+@media all and (max-width: 1024px) {
+    .my-menu {color: black;}
+}
+
 .my-logout {
   position: fixed;
   top: 55px;

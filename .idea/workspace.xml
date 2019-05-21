@@ -2,114 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc5e5457-a0c8-45be-a95c-d33c499fdc4a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/util.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/util.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (10).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (100).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (101).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (102).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (103).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (104).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (105).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (106).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (107).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (108).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (109).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (11).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (110).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (111).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (112).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (113).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (114).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (115).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (116).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (117).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (118).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (119).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (120).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (121).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (122).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (123).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (124).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (125).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (126).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (127).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (128).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (129).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (130).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (131).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (136).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (32).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (33).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (34).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (35).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (36).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (37).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (38).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (39).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (40).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (41).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (42).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (43).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (44).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (45).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (46).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (47).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (48).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (49).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (50).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (51).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (52).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (53).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (54).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (55).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (56).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (57).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (58).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (59).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (60).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (61).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (62).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (63).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (64).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (65).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (66).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (67).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (68).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (69).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (70).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (71).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (72).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (73).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (74).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (75).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (76).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (77).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (78).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (79).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (80).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (81).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (82).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (83).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (84).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (85).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (86).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (87).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (88).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (89).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (90).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (91).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (92).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (93).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (94).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (95).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (96).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (97).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (98).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/torty/tort (99).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -146,7 +39,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
+            <state relative-caret-position="-2074">
               <caret line="7" column="94" selection-start-line="7" selection-start-column="94" selection-end-line="7" selection-end-column="94" />
               <folding>
                 <element signature="n#style#0;n#form#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -157,20 +50,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/css/util.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="3004" column="7" selection-start-line="3004" selection-start-column="7" selection-end-line="3004" selection-end-column="7" />
+            <state relative-caret-position="301">
+              <caret line="3007" column="21" selection-start-line="3007" selection-start-column="21" selection-end-line="3007" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="490">
-              <caret line="1472" column="16" selection-start-line="1472" selection-start-column="16" selection-end-line="1472" selection-end-column="16" />
+            <state relative-caret-position="303">
+              <caret line="100" column="28" selection-start-line="100" selection-start-column="28" selection-end-line="100" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -179,9 +72,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>menu-sidebar</find>
-      <find>isotope-grid</find>
-      <find>sidebar</find>
       <find>social</find>
       <find>soci</find>
       <find>menu</find>
@@ -191,7 +81,6 @@
       <find>bg-title-pag</find>
       <find>t-center</find>
       <find>tit</find>
-      <find>my-menu</find>
       <find>btn-show-gallery</find>
       <find>:before</find>
       <find>before</find>
@@ -207,9 +96,16 @@
       <find>666</find>
       <find>add-photo</find>
       <find>font-family</find>
-      <find>tit6</find>
       <find>bg-title-page</find>
+      <find>tit6</find>
+      <find>menu-sidebar</find>
+      <find>my-menu</find>
+      <find>rgba(255, 255, 255, 0.75);</find>
+      <find>buttontext</find>
     </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -233,9 +129,9 @@
         <option value="$PROJECT_DIR$/resources/views/editPhoto.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/GalleryController.php" />
         <option value="$PROJECT_DIR$/.env" />
-        <option value="$PROJECT_DIR$/public/css/main.css" />
         <option value="$PROJECT_DIR$/resources/views/welcome.blade.php" />
         <option value="$PROJECT_DIR$/public/css/util.css" />
+        <option value="$PROJECT_DIR$/public/css/main.css" />
       </list>
     </option>
   </component>
@@ -464,7 +360,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36268000" />
+    <option name="totallyTimeSpent" value="37168000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="48" y="28" width="1872" height="1052" extended-state="6" />
@@ -534,9 +430,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/util.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="3007" column="21" selection-start-line="3007" selection-start-column="21" selection-end-line="3007" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
+        <state relative-caret-position="-2074">
           <caret line="7" column="94" selection-start-line="7" selection-start-column="94" selection-end-line="7" selection-end-column="94" />
           <folding>
             <element signature="n#style#0;n#form#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -548,15 +451,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
-          <caret line="1472" column="16" selection-start-line="1472" selection-start-column="16" selection-end-line="1472" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/util.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="3004" column="7" selection-start-line="3004" selection-start-column="7" selection-end-line="3004" selection-end-column="7" />
+        <state relative-caret-position="303">
+          <caret line="100" column="28" selection-start-line="100" selection-start-column="28" selection-end-line="100" selection-end-column="28" />
         </state>
       </provider>
     </entry>
