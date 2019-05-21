@@ -699,7 +699,7 @@ input[type="date" i] {
     margin-right: 4px;
   }
 
-  .social {margin-top: 20px;}
+  .social {margin-top: -200px;}
   .social {margin-left: -20px;}
   .social {display: block;}
   .social {position: fixed;}
