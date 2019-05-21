@@ -1,0 +1,54 @@
+.container {
+  max-width: 1500px;
+}
+
+.my-menu {
+  font-size: 16px!important;
+  letter-spacing: 2px;
+  word-spacing: 3px;
+}
+
+@media all and (max-width: 1024px) {
+  .my-menu {color: black;}
+  .menu-sidebar li {padding-bottom: 15px;}
+}
+
+.main_menu li {
+  padding: 15px;
+}
+
+.my-h2 {
+  margin-top: 100px;
+}
+
+.my-logout {
+  position: fixed;
+  top: 55px;
+  right: 33px;
+}
+
+.add-photo {
+  position: fixed;
+  top: 11px;
+  right: 15px;
+}
+
+.deletePhoto {
+  position: absolute;
+  font-size: 25px;
+  right: 15px;
+  top: 10px;
+  color: red;
+}
+
+.editPhoto {
+  position: absolute;
+  font-size: 25px;
+  right: 55px;
+  top: 10px;
+  color: dodgerblue;
+}
+
+.editPhoto:hover {
+  color: dodgerblue;
+}

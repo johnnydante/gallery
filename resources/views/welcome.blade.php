@@ -35,6 +35,8 @@
     <link rel="stylesheet" type="text/css" href="css/util.css">
     <link rel="stylesheet" type="text/css" href="css/main.css">
     <!--===============================================================================================-->
+
+    <link rel="stylesheet" type="text/css" href="css/my.css">
 </head>
 <body class="animsition">
 
@@ -215,7 +217,7 @@
 
 <!-- Title Page -->
 <section class="bg-title-page flex-c-m p-t-160 p-b-80 p-l-15 p-r-15" style="background-image: url('images/intro.jpg');">
-    <h2 class="tit6 t-center">
+    <h2 class="tit6 t-center my-h2">
         Galeria <br> tortów
     </h2>
 </section>
@@ -223,74 +225,76 @@
     @include('flash-messages')
 </div>
 <!-- Gallery -->
-<div class="section-gallery p-t-118 p-b-100">
-    {{--<div class="wrap-label-gallery filter-tope-group mysize flex-w flex-sb-m m-l-r-auto flex-col-c-sm p-l-15 p-r-15 m-b-60">
-        <button class="label-gallery txt26 trans-0-4 is-actived" data-filter="*">
-            <span class="my-menu">
-                Wszystkie
-            </span>
-        </button>
-        <button class="label-gallery txt26 trans-0-4" data-filter=".wedding">
-            <span class="my-menu">
-                Wesele
-            </span>
-        </button>
-        <button class="label-gallery txt26 trans-0-4" data-filter=".baptism">
-            <span class="my-menu">
-                Chrzest
-            </span>
-        </button>
-        <button class="label-gallery txt26 trans-0-4" data-filter=".birthday">
-            <span class="my-menu">
-                Urodziny
-            </span>
-        </button>
-        <button class="label-gallery txt26 trans-0-4" data-filter=".communion">
-            <span class="my-menu">
-                Komunia św.
-            </span>
-        </button>
-        <button class="label-gallery txt26 trans-0-4" data-filter=".anniversary">
-            <span class="my-menu">
-                Rocznica
-            </span>
-        </button>
-        <button class="label-gallery txt26 trans-0-4" data-filter=".other">
-            <span class="my-menu">
-                Inne
-            </span>
-        </button>
-    </div>--}}
+<div class="container">
+    <div class="section-gallery p-t-118 p-b-100">
+        {{--<div class="wrap-label-gallery filter-tope-group mysize flex-w flex-sb-m m-l-r-auto flex-col-c-sm p-l-15 p-r-15 m-b-60">
+            <button class="label-gallery txt26 trans-0-4 is-actived" data-filter="*">
+                <span class="my-menu">
+                    Wszystkie
+                </span>
+            </button>
+            <button class="label-gallery txt26 trans-0-4" data-filter=".wedding">
+                <span class="my-menu">
+                    Wesele
+                </span>
+            </button>
+            <button class="label-gallery txt26 trans-0-4" data-filter=".baptism">
+                <span class="my-menu">
+                    Chrzest
+                </span>
+            </button>
+            <button class="label-gallery txt26 trans-0-4" data-filter=".birthday">
+                <span class="my-menu">
+                    Urodziny
+                </span>
+            </button>
+            <button class="label-gallery txt26 trans-0-4" data-filter=".communion">
+                <span class="my-menu">
+                    Komunia św.
+                </span>
+            </button>
+            <button class="label-gallery txt26 trans-0-4" data-filter=".anniversary">
+                <span class="my-menu">
+                    Rocznica
+                </span>
+            </button>
+            <button class="label-gallery txt26 trans-0-4" data-filter=".other">
+                <span class="my-menu">
+                    Inne
+                </span>
+            </button>
+        </div>--}}
 
 
-        <div class="wrap-gallery isotope-grid flex-w p-l-25 p-r-25">
-            @foreach($photos as $photo)
-                <div class="item-gallery isotope-item bo-rad-10 hov-img-zoom {{ $photo->tag }}">
-                    {{--images/photo-gallery-13.jpg--}}
-                    <img src="{{ $photo->filename }}" alt="IMG-GALLERY">
+            <div class="wrap-gallery isotope-grid flex-w p-l-25 p-r-25">
+                @foreach($photos as $photo)
+                    <div class="item-gallery isotope-item bo-rad-10 hov-img-zoom {{ $photo->tag }}">
+                        {{--images/photo-gallery-13.jpg--}}
+                        <img src="{{ $photo->filename }}" alt="IMG-GALLERY">
 
-                    <div class="overlay-item-gallery trans-0-4 flex-c-m">
-                        <a class="btn-show-gallery flex-c-m fa fa-search" href="{{ $photo->filename }}" data-lightbox="gallery"></a>
+                        <div class="overlay-item-gallery trans-0-4 flex-c-m">
+                            <a class="btn-show-gallery flex-c-m fa fa-search" href="{{ $photo->filename }}" data-lightbox="gallery"></a>
+                        </div>
+                        @auth
+                            <a onclick="return confirm('Czy napewno chcesz usunąć to zdjęcie?')"
+                               href="{{ route('deletePhoto', ['id' => $photo->id]) }}" class="deletePhoto">
+                                <i class="fas fa-times"></i>
+                            </a>
+                            <a onclick="return confirm('Czy napewno chcesz edytować to zdjęcie?')"
+                               href="{{ route('editPhoto', ['id' => $photo->id]) }}" class="editPhoto">
+                                <i class="fas fa-edit"></i>
+                            </a>
+                        @endauth
                     </div>
-                    @auth
-                        <a onclick="return confirm('Czy napewno chcesz usunąć to zdjęcie?')"
-                           href="{{ route('deletePhoto', ['id' => $photo->id]) }}" class="deletePhoto">
-                            <i class="fas fa-times"></i>
-                        </a>
-                        <a onclick="return confirm('Czy napewno chcesz edytować to zdjęcie?')"
-                           href="{{ route('editPhoto', ['id' => $photo->id]) }}" class="editPhoto">
-                            <i class="fas fa-edit"></i>
-                        </a>
-                    @endauth
-                </div>
-            @endforeach
-        </div>
+                @endforeach
+            </div>
 
-   {{-- <div class="pagination flex-c-m flex-w p-l-15 p-r-15 m-t-24 m-b-50">
-        <a href="#" class="item-pagination flex-c-m trans-0-4 active-pagination">1</a>
-        <a href="#" class="item-pagination flex-c-m trans-0-4">2</a>
-        <a href="#" class="item-pagination flex-c-m trans-0-4">3</a>
-    </div>--}}
+       {{-- <div class="pagination flex-c-m flex-w p-l-15 p-r-15 m-t-24 m-b-50">
+            <a href="#" class="item-pagination flex-c-m trans-0-4 active-pagination">1</a>
+            <a href="#" class="item-pagination flex-c-m trans-0-4">2</a>
+            <a href="#" class="item-pagination flex-c-m trans-0-4">3</a>
+        </div>--}}
+    </div>
 </div>
 
 

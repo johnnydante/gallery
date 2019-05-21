@@ -97,47 +97,6 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
 	padding: 0px; 
 	box-sizing: border-box;
 }
-.my-menu {
-  font-size: 18px!important;
-  letter-spacing: 2px;
-  word-spacing: 2px;
-}
-
-@media all and (max-width: 1024px) {
-    .my-menu {color: black;}
-}
-
-.my-logout {
-  position: fixed;
-  top: 55px;
-  right: 33px;
-}
-
-.add-photo {
-  position: fixed;
-  top: 11px;
-  right: 15px;
-}
-
-.deletePhoto {
-  position: absolute;
-  font-size: 25px;
-  right: 15px;
-  top: 10px;
-  color: red;
-}
-
-.editPhoto {
-  position: absolute;
-  font-size: 25px;
-  right: 55px;
-  top: 10px;
-  color: dodgerblue;
-}
-
-.editPhoto:hover {
-  color: dodgerblue;
-}
 
 body, html {
   background-image: url('../images/bg.jpg');
@@ -770,7 +729,7 @@ input[type="date" i] {
   position: fixed;
   z-index: 1200;
   width: 390px;
-  height: 50%;
+  height: 66%;
   overflow: auto;
   background-color: white;
   top: 0;
