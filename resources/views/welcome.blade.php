@@ -218,7 +218,7 @@
 <!-- Title Page -->
 <section class="bg-title-page flex-c-m p-t-160 p-b-80 p-l-15 p-r-15" style="background-image: url('images/intro.jpg');">
     <h2 class="tit6 t-center my-h2">
-        Galeria <br> tortów
+        Galeria<br>tortów
     </h2>
 </section>
 <div class="col-md-4 t-center" style="margin-left: auto; margin-right: auto;">

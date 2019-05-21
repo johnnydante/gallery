@@ -10,7 +10,7 @@
 
 @media all and (max-width: 1024px) {
   .my-menu {color: black;}
-  .menu-sidebar li {padding-bottom: 15px;}
+  .menu-sidebar li {padding-bottom: 12px;}
 }
 
 .main_menu li {
