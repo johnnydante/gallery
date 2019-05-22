@@ -61,49 +61,49 @@
                     <nav class="menu">
                         <ul class="main_menu filter-tope-group">
                             <li>
-                                <button data-filter="*">
+                                <button data-filter="*" class="my-menu-button" id="first-all">
                                     <span class="my-menu">
                                         Wszystkie
                                     </span>
                                 </button>
                             </li>
                             <li>
-                                <button data-filter=".wedding">
+                                <button data-filter=".wedding" class="my-menu-button">
                                     <span class="my-menu">
                                         Wesele
                                     </span>
                                 </button>
                             </li>
                             <li>
-                                <button data-filter=".baptism">
+                                <button data-filter=".baptism" class="my-menu-button">
                                     <span class="my-menu">
                                         Chrzest
                                     </span>
                                 </button>
                             </li>
                             <li>
-                                <button data-filter=".birthday">
+                                <button data-filter=".birthday" class="my-menu-button">
                                     <span class="my-menu">
                                         Urodziny
                                     </span>
                                 </button>
                             </li>
                             <li>
-                                <button data-filter=".communion">
+                                <button data-filter=".communion" class="my-menu-button">
                                     <span class="my-menu">
                                         Komunia św.
                                     </span>
                                 </button>
                             </li>
                             <li>
-                                <button data-filter=".anniversary">
+                                <button data-filter=".anniversary" class="my-menu-button">
                                     <span class="my-menu">
                                         Rocznica
                                     </span>
                                 </button>
                             </li>
                             <li>
-                                <button data-filter=".other">
+                                <button data-filter=".other" class="my-menu-button">
                                     <span class="my-menu">
                                         Inne
                                     </span>
