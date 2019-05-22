@@ -1,11 +1,11 @@
 .container {
-  max-width: 1500px;
+  max-width: 1330px;
 }
 
 .my-menu {
-  font-size: 16px!important;
-  letter-spacing: 2px;
-  word-spacing: 3px;
+  font-size: 14px!important;
+  letter-spacing: 1px;
+  word-spacing: 2px;
 }
 
 @media all and (max-width: 1024px) {
@@ -20,11 +20,11 @@
 }
 
 .main_menu li {
-  padding: 15px;
+  padding: 3px;
 }
 
 .my-h2 {
-  margin-top: 100px;
+
 }
 
 .my-logout {
