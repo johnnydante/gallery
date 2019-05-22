@@ -12,8 +12,8 @@
   .my-menu {color: black;}
   .menu-sidebar li {padding-bottom: 10px;}
   .social {
-    top: 20px;!important;
-    left: -5px;!important;
+    top: 25px;!important;
+    left: -1px;!important;
     display: block;!important;
     position: fixed;!important;
   }
