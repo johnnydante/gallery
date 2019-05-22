@@ -126,7 +126,7 @@ a:focus {
 
 a:hover {
 	text-decoration: none;
-	color: #ec1d25;
+	color: #7d2aec;
 }
 
 /* ------------------------------------ */
@@ -238,10 +238,10 @@ iframe {
 
 .cp-meter {
     border-radius: 50%;
-    border-top: solid 6px #ec1d25;
-    border-right: solid 6px #ec1d25;
-    border-bottom: solid 6px #ec1d25;
-    border-left: solid 6px #ec1d25;
+    border-top: solid 6px #893cc5;
+    border-right: solid 6px #8940c9;
+    border-bottom: solid 6px #8a3cc6;
+    border-left: solid 6px #8b3ec9;
     width: 48px;
     height: 48px;
     display: inline-block;
@@ -255,7 +255,7 @@ iframe {
     height: 12px;
     display: inline-block;
     box-sizing: border-box;
-    background-color: #ec1d25;
+    background-color: #893cc5;
     position: absolute;
     top: 5px;
     left: 16px;
@@ -1422,7 +1422,7 @@ body {padding-right: 0px !important;}
 }
 
 .item-gallery-footer:hover:after {
-  background-color: rgba(236,29,37,0.7);
+  background-color: rgba(154, 62, 236, 0.7);
 }
 
 
@@ -1533,7 +1533,7 @@ body {padding-right: 0px !important;}
 }
 
 .overlay-item-gallery:hover {
-  opacity: 0.5;
+  opacity: 0.6;
 }
 
 .btn-show-gallery {
@@ -1542,7 +1542,7 @@ body {padding-right: 0px !important;}
   width: 60px;
   height: 60px;
   border-radius: 50%;
-  background-color: indianred;
+  background-color: #ab88f8;
 }
 
 @media (max-width: 768px) {
