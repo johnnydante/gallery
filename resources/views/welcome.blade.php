@@ -61,49 +61,49 @@
                     <nav class="menu">
                         <ul class="main_menu filter-tope-group">
                             <li>
-                                <button data-filter="*" class="my-menu-button" id="first-all">
+                                <button data-filter="*" class="my-menu-button click" id="first-all">
                                     <span class="my-menu">
                                         Wszystkie
                                     </span>
                                 </button>
                             </li>
                             <li>
-                                <button data-filter=".wedding" class="my-menu-button">
+                                <button data-filter=".wedding" class="my-menu-button click">
                                     <span class="my-menu">
                                         Wesele
                                     </span>
                                 </button>
                             </li>
                             <li>
-                                <button data-filter=".baptism" class="my-menu-button">
+                                <button data-filter=".baptism" class="my-menu-button click">
                                     <span class="my-menu">
                                         Chrzest
                                     </span>
                                 </button>
                             </li>
                             <li>
-                                <button data-filter=".birthday" class="my-menu-button">
+                                <button data-filter=".birthday" class="my-menu-button click">
                                     <span class="my-menu">
                                         Urodziny
                                     </span>
                                 </button>
                             </li>
                             <li>
-                                <button data-filter=".communion" class="my-menu-button">
+                                <button data-filter=".communion" class="my-menu-button click">
                                     <span class="my-menu">
                                         Komunia św.
                                     </span>
                                 </button>
                             </li>
                             <li>
-                                <button data-filter=".anniversary" class="my-menu-button">
+                                <button data-filter=".anniversary" class="my-menu-button click">
                                     <span class="my-menu">
                                         Rocznica
                                     </span>
                                 </button>
                             </li>
                             <li>
-                                <button data-filter=".other" class="my-menu-button">
+                                <button data-filter=".other" class="my-menu-button click">
                                     <span class="my-menu">
                                         Inne
                                     </span>
@@ -149,49 +149,49 @@
     <!-- - -->
         <ul class="menu-sidebar p-t-95 p-b-70 filter-tope-group">
             <li>
-                <button data-filter="*">
+                <button data-filter="*" class=" click">
                     <span class="my-menu">
                         Wszystkie
                     </span>
                 </button>
             </li>
             <li>
-                <button data-filter=".wedding">
+                <button data-filter=".wedding" class=" click">
                     <span class="my-menu">
                         Wesele
                     </span>
                 </button>
             </li>
             <li>
-                <button data-filter=".baptism">
+                <button data-filter=".baptism" class=" click">
                     <span class="my-menu">
                         Chrzest
                     </span>
                 </button>
             </li>
             <li>
-                <button data-filter=".birthday">
+                <button data-filter=".birthday" class=" click">
                     <span class="my-menu">
                         Urodziny
                     </span>
                 </button>
             </li>
             <li>
-                <button data-filter=".communion">
+                <button data-filter=".communion" class=" click">
                     <span class="my-menu">
                         Komunia św.
                     </span>
                 </button>
             </li>
             <li>
-                <button data-filter=".anniversary">
+                <button data-filter=".anniversary" class=" click">
                     <span class="my-menu">
                         Rocznica
                     </span>
                 </button>
             </li>
             <li>
-                <button data-filter=".other">
+                <button data-filter=".other" class=" click">
                     <span class="my-menu">
                         Inne
                     </span>
@@ -224,12 +224,12 @@
         Galeria<br>tortów
     </h2>
 </section>
-<div class="col-md-4 t-center" style="margin-left: auto; margin-right: auto;">
+<div id="my-gallery" class="col-md-4 t-center" style="margin-left: auto; margin-right: auto;">
     @include('flash-messages')
 </div>
 <!-- Gallery -->
-<div class="container">
-    <div class="section-gallery p-t-118 p-b-100">
+<div class="container" >
+    <div  class="section-gallery p-t-118 p-b-100">
         {{--<div class="wrap-label-gallery filter-tope-group mysize flex-w flex-sb-m m-l-r-auto flex-col-c-sm p-l-15 p-r-15 m-b-60">
             <button class="label-gallery txt26 trans-0-4 is-actived" data-filter="*">
                 <span class="my-menu">
@@ -455,8 +455,6 @@
 		</span>
 </div>
 
-
-
 <!--===============================================================================================-->
 <script type="text/javascript" src="vendor/jquery/jquery-3.2.1.min.js"></script>
 <!--===============================================================================================-->
@@ -486,5 +484,14 @@
 <!--===============================================================================================-->
 <script src="js/main.js"></script>
 
+<script>
+    $(document).ready(function () {
+        $(".click").click(function (){
+            $('html, body').animate({
+                scrollTop: $("#my-gallery").offset().top
+            }, 800);
+        });
+    });
+</script>
 </body>
 </html>
