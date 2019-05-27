@@ -2,294 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc5e5457-a0c8-45be-a95c-d33c499fdc4a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/1558972825.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/1558972919.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(1).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(10).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(100).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(101).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(11).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(12).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(13).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(14).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(15).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(16).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(17).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(18).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(19).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(2).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(20).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(21).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(22).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(24).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(25).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(26).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(27).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(28).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(29).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(3).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(30).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(31).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(32).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(33).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(34).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(35).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(36).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(37).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(38).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(39).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(4).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(40).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(41).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(42).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(43).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(44).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(45).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(46).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(47).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(48).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(49).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(5).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(50).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(51).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(52).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(53).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(54).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(55).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(56).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(57).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(58).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(59).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(6).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(60).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(61).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(62).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(63).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(64).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(65).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(66).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(67).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(68).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(69).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(7).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(70).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(71).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(72).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(73).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(74).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(75).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(76).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(77).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(78).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(79).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(8).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(80).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(81).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(82).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(83).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(84).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(85).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(86).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(87).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(88).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(89).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(9).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(90).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(91).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(92).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(93).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(94).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(95).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(96).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(97).JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(98).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/torty/tort(99).jpg" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/1558286832.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/1558286840.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/1558286879.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/1558286892.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/1558286915.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/1558286924.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/1558286936.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/1558286944.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/1558286949.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/1558286954.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/1558286965.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/1558286970.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/1558286979.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/1558286985.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/1558286991.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/1558287000.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/1558287008.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/1558287012.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/1558287016.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/1558287023.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/1558287358.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/1558287416.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/1558287470.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/1558287513.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/1558963535.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/1558963579.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/1558963708.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/1558963981.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/1558963993.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/1558964032.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/1558969017.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/1558969083.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/1558969094.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/1558969223.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/1558969233.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/1558969241.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/1558969289.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/1558969293.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/1558969301.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/1558969462.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/1558969473.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/1558969495.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (1).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (10).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (100).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (101).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (102).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (103).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (104).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (105).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (106).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (107).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (108).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (109).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (11).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (110).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (111).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (112).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (113).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (114).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (115).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (116).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (117).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (118).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (119).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (12).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (120).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (121).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (122).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (123).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (124).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (125).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (126).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (127).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (128).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (129).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (13).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (130).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (131).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (132).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (133).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (134).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (135).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (136).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (137).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (138).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (139).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (14).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (140).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (15).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (16).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (17).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (18).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (19).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (2).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (20).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (21).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (22).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (23).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (24).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (25).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (26).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (27).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (28).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (29).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (3).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (30).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (31).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (32).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (33).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (34).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (35).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (36).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (37).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (38).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (39).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (4).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (40).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (41).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (42).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (43).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (44).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (45).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (46).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (47).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (48).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (49).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (5).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (50).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (51).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (52).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (53).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (54).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (55).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (56).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (57).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (58).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (59).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (6).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (60).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (61).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (62).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (63).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (64).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (65).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (66).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (67).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (68).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (69).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (7).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (70).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (71).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (72).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (73).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (74).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (75).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (76).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (77).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (78).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (79).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (8).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (80).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (81).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (82).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (83).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (84).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (85).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (86).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (87).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (88).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (89).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (9).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (90).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (91).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (92).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (93).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (94).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (95).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (96).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (97).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (98).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/torty/tort (99).jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/GalleryController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/GalleryController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/seeds/cakes.php" afterPath="$PROJECT_DIR$/database/seeds/cakes.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/lang/en/validation.php" afterPath="$PROJECT_DIR$/resources/lang/en/validation.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -334,25 +48,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="welcome.blade.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="welcome.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
-              <caret line="428" column="32" lean-forward="false" selection-start-line="428" selection-start-column="32" selection-end-line="428" selection-end-column="32" />
+            <state relative-caret-position="437">
+              <caret line="430" column="27" lean-forward="true" selection-start-line="430" selection-start-column="27" selection-end-line="430" selection-end-column="27" />
               <folding>
-                <marker date="1558973281199" expanded="true" signature="6712:6731" ph="..." />
-                <marker date="1558973281199" expanded="true" signature="6883:6900" ph="..." />
-                <marker date="1558973281199" expanded="true" signature="7227:7244" ph="..." />
-                <marker date="1558973281199" expanded="true" signature="10805:10821" ph="..." />
-                <marker date="1558973281199" expanded="true" signature="12654:12667" ph="..." />
-                <marker date="1558973281199" expanded="true" signature="12768:12786" ph="..." />
-                <marker date="1558973281199" expanded="true" signature="12974:12992" ph="..." />
-                <marker date="1558973281199" expanded="true" signature="13222:13266" ph="..." />
-                <marker date="1558973281199" expanded="true" signature="13523:13565" ph="..." />
-                <marker date="1558973281199" expanded="true" signature="18142:18207" ph="..." />
-                <marker date="1558973281199" expanded="true" signature="18333:18361" ph="..." />
-                <marker date="1558973281199" expanded="true" signature="18441:18469" ph="..." />
+                <marker date="1558973996848" expanded="true" signature="6712:6731" ph="..." />
+                <marker date="1558973996848" expanded="true" signature="6883:6900" ph="..." />
+                <marker date="1558973996848" expanded="true" signature="7227:7244" ph="..." />
+                <marker date="1558973996848" expanded="true" signature="10805:10821" ph="..." />
+                <marker date="1558973996848" expanded="true" signature="12654:12667" ph="..." />
+                <marker date="1558973996848" expanded="true" signature="12768:12786" ph="..." />
+                <marker date="1558973996848" expanded="true" signature="12974:12992" ph="..." />
+                <marker date="1558973996848" expanded="true" signature="13222:13266" ph="..." />
+                <marker date="1558973996848" expanded="true" signature="13523:13565" ph="..." />
+                <marker date="1558973996848" expanded="true" signature="18142:18207" ph="..." />
+                <marker date="1558973996848" expanded="true" signature="18333:18361" ph="..." />
+                <marker date="1558973996848" expanded="true" signature="18441:18469" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="validation.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/lang/en/validation.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="271">
+              <caret line="117" column="53" lean-forward="true" selection-start-line="117" selection-start-column="53" selection-end-line="117" selection-end-column="53" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -367,20 +91,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="util.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/css/util.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="29733">
-              <caret line="1749" column="7" lean-forward="false" selection-start-line="1749" selection-start-column="1" selection-end-line="1749" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
+            <state relative-caret-position="10421">
               <caret line="613" column="1" lean-forward="false" selection-start-line="613" selection-start-column="1" selection-end-line="613" selection-end-column="1" />
               <folding />
             </state>
@@ -421,7 +135,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>my-menu</find>
       <find>menu-sidebar</find>
       <find>sidebar</find>
       <find>bg-title-page</find>
@@ -451,6 +164,7 @@
       <find>show-</find>
       <find>m-l-32</find>
       <find>btn-hide-sidebar</find>
+      <find>The filename failed to upload.</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -482,6 +196,7 @@
         <option value="$PROJECT_DIR$/database/seeds/cakes.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/GalleryController.php" />
         <option value="$PROJECT_DIR$/resources/views/welcome.blade.php" />
+        <option value="$PROJECT_DIR$/resources/lang/en/validation.php" />
       </list>
     </option>
   </component>
@@ -607,7 +322,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -663,6 +377,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gallery" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gallery" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lang" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="en" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -758,6 +494,52 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gallery" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gallery" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gallery" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gallery" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cache" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gallery" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gallery" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -804,6 +586,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -925,24 +708,26 @@
       <workItem from="1558498412537" duration="1310000" />
       <workItem from="1558644982171" duration="1194000" />
       <workItem from="1558961971412" duration="7592000" />
-      <workItem from="1558971409811" duration="2214000" />
+      <workItem from="1558971409811" duration="2445000" />
+      <workItem from="1558975422227" duration="143000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60658000" />
+    <option name="totallyTimeSpent" value="61032000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.228125" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
@@ -953,7 +738,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -971,14 +755,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/public/css/app.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/css/util.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51187">
@@ -1024,18 +800,18 @@
         <state relative-caret-position="2193">
           <caret line="129" column="45" lean-forward="false" selection-start-line="129" selection-start-column="45" selection-end-line="129" selection-end-column="45" />
           <folding>
-            <marker date="1558973281199" expanded="true" signature="6712:6731" ph="..." />
-            <marker date="1558973281199" expanded="true" signature="6883:6900" ph="..." />
-            <marker date="1558973281199" expanded="true" signature="7227:7244" ph="..." />
-            <marker date="1558973281199" expanded="true" signature="10805:10821" ph="..." />
-            <marker date="1558973281199" expanded="true" signature="12654:12667" ph="..." />
-            <marker date="1558973281199" expanded="true" signature="12768:12786" ph="..." />
-            <marker date="1558973281199" expanded="true" signature="12974:12992" ph="..." />
-            <marker date="1558973281199" expanded="true" signature="13222:13266" ph="..." />
-            <marker date="1558973281199" expanded="true" signature="13523:13565" ph="..." />
-            <marker date="1558973281199" expanded="true" signature="18142:18207" ph="..." />
-            <marker date="1558973281199" expanded="true" signature="18333:18361" ph="..." />
-            <marker date="1558973281199" expanded="true" signature="18441:18469" ph="..." />
+            <marker date="1558973996848" expanded="true" signature="6712:6731" ph="..." />
+            <marker date="1558973996848" expanded="true" signature="6883:6900" ph="..." />
+            <marker date="1558973996848" expanded="true" signature="7227:7244" ph="..." />
+            <marker date="1558973996848" expanded="true" signature="10805:10821" ph="..." />
+            <marker date="1558973996848" expanded="true" signature="12654:12667" ph="..." />
+            <marker date="1558973996848" expanded="true" signature="12768:12786" ph="..." />
+            <marker date="1558973996848" expanded="true" signature="12974:12992" ph="..." />
+            <marker date="1558973996848" expanded="true" signature="13222:13266" ph="..." />
+            <marker date="1558973996848" expanded="true" signature="13523:13565" ph="..." />
+            <marker date="1558973996848" expanded="true" signature="18142:18207" ph="..." />
+            <marker date="1558973996848" expanded="true" signature="18333:18361" ph="..." />
+            <marker date="1558973996848" expanded="true" signature="18441:18469" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1051,7 +827,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1099,7 +874,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1132,18 +906,18 @@
         <state relative-caret-position="51">
           <caret line="3" column="33" lean-forward="true" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
           <folding>
-            <marker date="1558973281199" expanded="true" signature="6712:6731" ph="..." />
-            <marker date="1558973281199" expanded="true" signature="6883:6900" ph="..." />
-            <marker date="1558973281199" expanded="true" signature="7227:7244" ph="..." />
-            <marker date="1558973281199" expanded="true" signature="10805:10821" ph="..." />
-            <marker date="1558973281199" expanded="true" signature="12654:12667" ph="..." />
-            <marker date="1558973281199" expanded="true" signature="12768:12786" ph="..." />
-            <marker date="1558973281199" expanded="true" signature="12974:12992" ph="..." />
-            <marker date="1558973281199" expanded="true" signature="13222:13266" ph="..." />
-            <marker date="1558973281199" expanded="true" signature="13523:13565" ph="..." />
-            <marker date="1558973281199" expanded="true" signature="18142:18207" ph="..." />
-            <marker date="1558973281199" expanded="true" signature="18333:18361" ph="..." />
-            <marker date="1558973281199" expanded="true" signature="18441:18469" ph="..." />
+            <marker date="1558973996848" expanded="true" signature="6712:6731" ph="..." />
+            <marker date="1558973996848" expanded="true" signature="6883:6900" ph="..." />
+            <marker date="1558973996848" expanded="true" signature="7227:7244" ph="..." />
+            <marker date="1558973996848" expanded="true" signature="10805:10821" ph="..." />
+            <marker date="1558973996848" expanded="true" signature="12654:12667" ph="..." />
+            <marker date="1558973996848" expanded="true" signature="12768:12786" ph="..." />
+            <marker date="1558973996848" expanded="true" signature="12974:12992" ph="..." />
+            <marker date="1558973996848" expanded="true" signature="13222:13266" ph="..." />
+            <marker date="1558973996848" expanded="true" signature="13523:13565" ph="..." />
+            <marker date="1558973996848" expanded="true" signature="18142:18207" ph="..." />
+            <marker date="1558973996848" expanded="true" signature="18333:18361" ph="..." />
+            <marker date="1558973996848" expanded="true" signature="18441:18469" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1169,18 +943,18 @@
         <state relative-caret-position="119">
           <caret line="7" column="94" lean-forward="false" selection-start-line="7" selection-start-column="94" selection-end-line="7" selection-end-column="94" />
           <folding>
-            <marker date="1558973281199" expanded="true" signature="6712:6731" ph="..." />
-            <marker date="1558973281199" expanded="true" signature="6883:6900" ph="..." />
-            <marker date="1558973281199" expanded="true" signature="7227:7244" ph="..." />
-            <marker date="1558973281199" expanded="true" signature="10805:10821" ph="..." />
-            <marker date="1558973281199" expanded="true" signature="12654:12667" ph="..." />
-            <marker date="1558973281199" expanded="true" signature="12768:12786" ph="..." />
-            <marker date="1558973281199" expanded="true" signature="12974:12992" ph="..." />
-            <marker date="1558973281199" expanded="true" signature="13222:13266" ph="..." />
-            <marker date="1558973281199" expanded="true" signature="13523:13565" ph="..." />
-            <marker date="1558973281199" expanded="true" signature="18142:18207" ph="..." />
-            <marker date="1558973281199" expanded="true" signature="18333:18361" ph="..." />
-            <marker date="1558973281199" expanded="true" signature="18441:18469" ph="..." />
+            <marker date="1558973996848" expanded="true" signature="6712:6731" ph="..." />
+            <marker date="1558973996848" expanded="true" signature="6883:6900" ph="..." />
+            <marker date="1558973996848" expanded="true" signature="7227:7244" ph="..." />
+            <marker date="1558973996848" expanded="true" signature="10805:10821" ph="..." />
+            <marker date="1558973996848" expanded="true" signature="12654:12667" ph="..." />
+            <marker date="1558973996848" expanded="true" signature="12768:12786" ph="..." />
+            <marker date="1558973996848" expanded="true" signature="12974:12992" ph="..." />
+            <marker date="1558973996848" expanded="true" signature="13222:13266" ph="..." />
+            <marker date="1558973996848" expanded="true" signature="13523:13565" ph="..." />
+            <marker date="1558973996848" expanded="true" signature="18142:18207" ph="..." />
+            <marker date="1558973996848" expanded="true" signature="18333:18361" ph="..." />
+            <marker date="1558973996848" expanded="true" signature="18441:18469" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1231,7 +1005,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2363">
           <caret line="139" column="41" lean-forward="false" selection-start-line="139" selection-start-column="29" selection-end-line="139" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1239,19 +1012,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
           <caret line="31" column="181" lean-forward="false" selection-start-line="31" selection-start-column="181" selection-end-line="31" selection-end-column="181" />
-          <folding>
-            <marker date="1558964948759" expanded="true" signature="9:22" ph="..." />
-            <marker date="1558964948759" expanded="true" signature="34:43" ph="..." />
-            <marker date="1558964948759" expanded="true" signature="283:304" ph="..." />
-            <marker date="1558964948759" expanded="true" signature="352:367" ph="..." />
-            <marker date="1558964948759" expanded="true" signature="656:672" ph="..." />
-            <marker date="1558964948759" expanded="true" signature="728:750" ph="..." />
-            <marker date="1558964948759" expanded="true" signature="970:990" ph="..." />
-            <marker date="1558964948759" expanded="true" signature="1785:1817" ph="..." />
-            <marker date="1558964948759" expanded="true" signature="1937:1984" ph="..." />
-            <marker date="1558964948759" expanded="true" signature="2200:2228" ph="..." />
-            <marker date="1558964948759" expanded="true" signature="2587:2608" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1259,7 +1019,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1297,7 +1056,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
+        <state relative-caret-position="10421">
           <caret line="613" column="1" lean-forward="false" selection-start-line="613" selection-start-column="1" selection-end-line="613" selection-end-column="1" />
           <folding />
         </state>
@@ -1337,22 +1096,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="428" column="32" lean-forward="false" selection-start-line="428" selection-start-column="32" selection-end-line="428" selection-end-column="32" />
+        <state relative-caret-position="437">
+          <caret line="430" column="27" lean-forward="true" selection-start-line="430" selection-start-column="27" selection-end-line="430" selection-end-column="27" />
           <folding>
-            <marker date="1558973281199" expanded="true" signature="6712:6731" ph="..." />
-            <marker date="1558973281199" expanded="true" signature="6883:6900" ph="..." />
-            <marker date="1558973281199" expanded="true" signature="7227:7244" ph="..." />
-            <marker date="1558973281199" expanded="true" signature="10805:10821" ph="..." />
-            <marker date="1558973281199" expanded="true" signature="12654:12667" ph="..." />
-            <marker date="1558973281199" expanded="true" signature="12768:12786" ph="..." />
-            <marker date="1558973281199" expanded="true" signature="12974:12992" ph="..." />
-            <marker date="1558973281199" expanded="true" signature="13222:13266" ph="..." />
-            <marker date="1558973281199" expanded="true" signature="13523:13565" ph="..." />
-            <marker date="1558973281199" expanded="true" signature="18142:18207" ph="..." />
-            <marker date="1558973281199" expanded="true" signature="18333:18361" ph="..." />
-            <marker date="1558973281199" expanded="true" signature="18441:18469" ph="..." />
+            <marker date="1558973996848" expanded="true" signature="6712:6731" ph="..." />
+            <marker date="1558973996848" expanded="true" signature="6883:6900" ph="..." />
+            <marker date="1558973996848" expanded="true" signature="7227:7244" ph="..." />
+            <marker date="1558973996848" expanded="true" signature="10805:10821" ph="..." />
+            <marker date="1558973996848" expanded="true" signature="12654:12667" ph="..." />
+            <marker date="1558973996848" expanded="true" signature="12768:12786" ph="..." />
+            <marker date="1558973996848" expanded="true" signature="12974:12992" ph="..." />
+            <marker date="1558973996848" expanded="true" signature="13222:13266" ph="..." />
+            <marker date="1558973996848" expanded="true" signature="13523:13565" ph="..." />
+            <marker date="1558973996848" expanded="true" signature="18142:18207" ph="..." />
+            <marker date="1558973996848" expanded="true" signature="18333:18361" ph="..." />
+            <marker date="1558973996848" expanded="true" signature="18441:18469" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/lang/en/validation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="117" column="53" lean-forward="true" selection-start-line="117" selection-start-column="53" selection-end-line="117" selection-end-column="53" />
+          <folding />
         </state>
       </provider>
     </entry>
