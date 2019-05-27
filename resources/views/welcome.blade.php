@@ -421,9 +421,9 @@
 
                 <!-- Gallery footer -->
                 <div class="wrap-gallery-footer flex-w">
-                    @for($i=0; $i<(count($arrPhotos)>16 ? 16 : count($arrPhotos)); $i++)
+                    @for($i=0; $i<(count($arrPhotos)>12 ? 12 : count($arrPhotos)); $i++)
                         @php( list($width, $height) = getimagesize($arrPhotos[$i]['filename']))
-                        @if($width > $height)
+                        @if($width < $height)
                             <a class="item-gallery-footer wrap-pic-w" href="{{ $arrPhotos[$i]['filename'] }}" data-lightbox="gallery-footer">
                                 <img src="{{ $arrPhotos[$i]['filename'] }}" alt="GALLERY">
                             </a>
