@@ -133,8 +133,10 @@
                     {{--    <a href="#"><i class="fa fa-tripadvisor" aria-hidden="true"></i></a>
                         <a href="#"><i class="fa fa-facebook m-l-21" aria-hidden="true"></i></a>
                         <a href="#"><i class="fa fa-twitter m-l-21" aria-hidden="true"></i></a>--}}
-
-                    <button class="btn-show-sidebar m-l-32 trans-0-4"></button>
+                    <div class="btn-show-sidebar">
+                        <button class="btn-show-sidebar-up m-l-32 trans-0-4"></button>
+                        <button class="btn-show-sidebar-down m-l-32 trans-0-4"></button>
+                    </div>
                 </div>
             </div>
         </div>
@@ -224,12 +226,12 @@
         Galeria<br>tortów
     </h2>
 </section>
-<div id="my-gallery" class="col-md-4 t-center" style="margin-left: auto; margin-right: auto;">
+<div id="my-gallery" class="col-md-4 t-center">
     @include('flash-messages')
 </div>
 <!-- Gallery -->
 <div class="container" >
-    <div  class="section-gallery p-t-118 p-b-100">
+    <div class="section-gallery p-t-118 p-b-100">
         {{--<div class="wrap-label-gallery filter-tope-group mysize flex-w flex-sb-m m-l-r-auto flex-col-c-sm p-l-15 p-r-15 m-b-60">
             <button class="label-gallery txt26 trans-0-4 is-actived" data-filter="*">
                 <span class="my-menu">

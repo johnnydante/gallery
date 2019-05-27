@@ -8,6 +8,16 @@
   word-spacing: 2px;
 }
 
+#my-gallery {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.section-gallery {
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
 @media all and (max-width: 1024px) {
   .my-menu {color: black;}
   .menu-sidebar li {padding-bottom: 10px;}
@@ -43,7 +53,7 @@
   position: absolute;
   font-size: 25px;
   right: 15px;
-  top: 10px;
+  top: 5px;
   color: red;
 }
 
@@ -53,9 +63,9 @@
 
 .editPhoto {
   position: absolute;
-  font-size: 25px;
-  right: 55px;
-  top: 10px;
+  font-size: 23px;
+  right: 50px;
+  top: 5px;
   color: dodgerblue;
 }
 

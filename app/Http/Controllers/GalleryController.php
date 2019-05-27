@@ -26,31 +26,28 @@ class GalleryController extends Controller
         $image = Input::file('filename');
         $filename  = time() . '.' . $image->getClientOriginalExtension();
         $filenameToDb  = 'images/torty/'.$filename;
-        $path = public_path('images/torty/' . $filename);
+        $path = public_path('images/torty/'.$filename);
         list($width, $height) = getimagesize($image);
         try
         {
             if($width > $height) {
-                Image::make($image->getRealPath())->resize(900, 650)->save($path);
+                Image::make($image->getRealPath())->resize(1040, 780)->save($path);
             } else {
-                Image::make($image->getRealPath())->resize(650, 900)->save($path);
+                Image::make($image->getRealPath())->resize(780, 1040)->save($path);
             }
-            DB::beginTransaction();
-            $request->offsetUnset('_token');
-            Gallery::create(
-                $request->except('filename') +
-                ['filename' => $filenameToDb]
-            );
-            DB::commit();
-            return redirect()->back()->with('success', 'Pomyślnie dodano zdjęcie');
         }
         catch(\Exception $e)
         {
-            DB::rollBack();
             Log::error($e->getMessage());
             Log::error($e->getTraceAsString());
+            return redirect()->back()->with('danger', 'Problem z odczytem zdjęcia, proszę spróbować dodać inne');
         }
-        return redirect()->back()->with('danger', 'Problem z odczytem zdjęcia, proszę spróbować dodać inne');
+        $request->offsetUnset('_token');
+        Gallery::create(
+            $request->except('filename') +
+            ['filename' => $filenameToDb]
+        );
+        return redirect()->back()->with('success', 'Pomyślnie dodano zdjęcie');
     }
 
     public function deletePhoto($id) {

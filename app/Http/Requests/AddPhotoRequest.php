@@ -25,7 +25,7 @@ class AddPhotoRequest extends FormRequest
     {
         return [
             'tag' => 'required',
-            'filename' => 'required|mimes:jpeg,jpg,png|max:5000'
+            'filename' => 'required|mimes:jpeg,jpg,png|max:10240'
         ];
     }
 
@@ -34,7 +34,7 @@ class AddPhotoRequest extends FormRequest
         return [
             'filename.required' => 'Nie wybrałeś żadnego zdjęcia',
             'filename.mimes' => 'Plik musi być w jednym z formatów: jpeg, jpg, png',
-            'filename.max' => 'Plik nie może być większy niż 5 Mb',
+            'filename.max' => 'Plik nie może być większy niż 10 Mb',
         ];
     }
 }

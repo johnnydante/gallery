@@ -676,22 +676,32 @@ input[type="date" i] {
   color: #ec1d25;
 }
 
-.btn-show-sidebar {
+.btn-show-sidebar-up {
+  margin-bottom: -1px;
   width: 26px;
-  height: 15px;
+  height: 10px;
   border-top: 2px solid white;
+  border-bottom: 1px solid white;
+}
+
+.btn-show-sidebar {
+  display: block;
+  margin-top: 8px;
+  line-height: 0;
+  max-width: 30px;
+}
+
+.btn-show-sidebar-down {
+  margin-top: -1px;
+  width: 26px;
+  height: 10px;
+  border-top: 1px solid white;
   border-bottom: 2px solid white;
-  color: black;
 }
 
 .header-fixed .btn-show-sidebar {
   border-top: 2px solid #222222;
   border-bottom: 2px solid #222222;
-}
-
-.btn-show-sidebar:hover {
-  border-top: 2px solid #ec1d25;
-  border-bottom: 2px solid #ec1d25;
 }
 
 @media (max-width: 1200px) {
@@ -724,12 +734,12 @@ input[type="date" i] {
 .sidebar {
   position: fixed;
   z-index: 1200;
-  width: 390px;
+  width: 100%;
   height: 66%;
   overflow: auto;
   background-color: white;
   top: 0;
-  right: -390px;
+  right: -100%;
   text-align: center;
 }
 
@@ -743,7 +753,7 @@ input[type="date" i] {
 }
 
 .show-sidebar {
-  right: 0px;
+  right: 0;
 }
 
 .btn-hide-sidebar {
