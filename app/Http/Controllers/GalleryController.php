@@ -14,8 +14,8 @@ class GalleryController extends Controller
 {
     public function index() {
         $photos = Gallery::orderBy('created_at', 'desc')->get();
-        $birthday = Gallery::where('tag','birthday')->get()->toArray();
-        return view('welcome', compact('photos', 'birthday'));
+        $arrPhotos = Gallery::orderBy('created_at', 'desc')->get()->toArray();
+        return view('welcome', compact('photos', 'arrPhotos'));
     }
 
     public function addPhoto() {

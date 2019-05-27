@@ -12,10 +12,10 @@ class cakes extends Seeder
      */
     public function run()
     {
-        for($i=1; $i<141; $i++) {
+        for($i=1; $i<122; $i++) {
             Gallery::firstOrCreate([
                 'id' => $i,
-                'filename' => 'images/torty/tort ('.$i.').jpg',
+                'filename' => 'images/torty/tort('.$i.').jpg',
                 'tag' => 'wedding'
             ]);
         }
