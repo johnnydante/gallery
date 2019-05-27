@@ -5,6 +5,8 @@ namespace App\Http\Controllers;
 use App\Gallery;
 use App\Http\Requests\AddPhotoRequest;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\DB;
+use Illuminate\Support\Facades\Log;
 use Intervention\Image\Facades\Image;
 use Illuminate\Support\Facades\Input;
 
@@ -25,20 +27,30 @@ class GalleryController extends Controller
         $filename  = time() . '.' . $image->getClientOriginalExtension();
         $filenameToDb  = 'images/torty/'.$filename;
         $path = public_path('images/torty/' . $filename);
+        list($width, $height) = getimagesize($image);
         try
         {
-            Image::make($image->getRealPath())->resize(900, 650)->save($path);
+            if($width > $height) {
+                Image::make($image->getRealPath())->resize(900, 650)->save($path);
+            } else {
+                Image::make($image->getRealPath())->resize(650, 900)->save($path);
+            }
+            DB::beginTransaction();
+            $request->offsetUnset('_token');
+            Gallery::create(
+                $request->except('filename') +
+                ['filename' => $filenameToDb]
+            );
+            DB::commit();
+            return redirect()->back()->with('success', 'Pomyślnie dodano zdjęcie');
         }
         catch(\Exception $e)
         {
-            return redirect()->back()->with('danger', 'Problem z odczytem zdjęcia, proszę spróbować dodać inne');
+            DB::rollBack();
+            Log::error($e->getMessage());
+            Log::error($e->getTraceAsString());
         }
-        $request->offsetUnset('_token');
-        Gallery::create(
-            $request->except('filename') +
-            ['filename' => $filenameToDb]
-        );
-        return redirect()->back()->with('success', 'Pomyślnie dodano zdjęcie');
+        return redirect()->back()->with('danger', 'Problem z odczytem zdjęcia, proszę spróbować dodać inne');
     }
 
     public function deletePhoto($id) {

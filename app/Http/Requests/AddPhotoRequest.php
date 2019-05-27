@@ -3,7 +3,6 @@
 namespace App\Http\Requests;
 
 use Illuminate\Foundation\Http\FormRequest;
-use Illuminate\Http\Request;
 
 class AddPhotoRequest extends FormRequest
 {
@@ -22,11 +21,11 @@ class AddPhotoRequest extends FormRequest
      *
      * @return array
      */
-    public function rules(Request $request)
+    public function rules()
     {
         return [
             'tag' => 'required',
-            'filename' => 'required|mimes:jpeg,jpg,png|max:2048'
+            'filename' => 'required|mimes:jpeg,jpg,png|max:5000'
         ];
     }
 
@@ -35,7 +34,7 @@ class AddPhotoRequest extends FormRequest
         return [
             'filename.required' => 'Nie wybrałeś żadnego zdjęcia',
             'filename.mimes' => 'Plik musi być w jednym z formatów: jpeg, jpg, png',
-            'filename.max' => 'Plik nie może być większy niż 2 Mb',
+            'filename.max' => 'Plik nie może być większy niż 5 Mb',
         ];
     }
 }

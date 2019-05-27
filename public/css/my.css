@@ -1,9 +1,9 @@
 .container {
-  max-width: 1330px;
+  max-width: 1150px;
 }
 
 .my-menu {
-  font-size: 14px!important;
+  font-size: 14px !important;
   letter-spacing: 1px;
   word-spacing: 2px;
 }
@@ -19,8 +19,8 @@
   }
 }
 
-.main_menu li {
-  padding: 3px;
+.main_menu {
+  margin-left: -30px;
 }
 
 .my-h2 {
@@ -44,6 +44,10 @@
   font-size: 25px;
   right: 15px;
   top: 10px;
+  color: red;
+}
+
+.deletePhoto:hover {
   color: red;
 }
 

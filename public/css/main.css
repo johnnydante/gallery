@@ -1431,7 +1431,7 @@ body {padding-right: 0px !important;}
 */
 .bg-title-page {
   width: 100%;
-  min-height: 790px;
+  height: 100vh;
   padding-left: 15px;
   padding-right: 15px;
   background-repeat: no-repeat;
@@ -1441,10 +1441,6 @@ body {padding-right: 0px !important;}
 
 @media (max-width: 576px) {
   .bg-title-page .tit6 {font-size: 30px;}
-  .bg-title-page .tit6 {margin-top:  55px;}
-  .bg-title-page {margin-bottom: -60px;}
-  .bg-title-page {margin-top: -120px;}
-  .bg-title-page {min-height: 465px;}
 }
 
 
@@ -1517,7 +1513,7 @@ body {padding-right: 0px !important;}
 
 .item-gallery {
   width: calc( (100% - 150px) / 3 ) ;
-  margin: 30px 15px;
+  margin: 15px 15px;
   position: relative;
   opacity: 0.95;
 }

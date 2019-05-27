@@ -29,7 +29,7 @@
 
                             <div class="form-group">
                                 <label for="filename" class="col-md-12 col-form-label text-md-left">{{ __('Wybierz plik ze zdjęciem') }}</label>
-                                <input id="filename" name="filename" type="file" class="form-control-file btn btn-outline-info">
+                                <input id="filename" name="filename" type="file"  class="form-control-file {{ $errors->has('filename') ? ' is-invalid' : '' }} btn btn-outline-info">
                                 @if ($errors->has('filename'))
                                     <span class="invalid-feedback" role="alert">
                                     <strong>{{ $errors->first('filename') }}</strong>
