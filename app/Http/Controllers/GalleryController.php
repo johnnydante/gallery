@@ -24,16 +24,21 @@ class GalleryController extends Controller
 
     public function submitPhoto(AddPhotoRequest $request) {
         $image = Input::file('filename');
-        $filename  = time() . '.' . $image->getClientOriginalExtension();
+        $time = time();
+        $filename  = $time . '.' . $image->getClientOriginalExtension();
+        $smallFilename = $time . '_small.' . $image->getClientOriginalExtension();
         $filenameToDb  = 'images/torty/'.$filename;
         $path = public_path('images/torty/'.$filename);
+        $smallPath = public_path('images/torty/'.$smallFilename);
         list($width, $height) = getimagesize($image);
         try
         {
             if($width > $height) {
                 Image::make($image->getRealPath())->resize(1040, 780)->save($path);
+                Image::make($image->getRealPath())->resize(364, 273)->save($smallPath);
             } else {
                 Image::make($image->getRealPath())->resize(780, 1040)->save($path);
+                Image::make($image->getRealPath())->resize(273, 364)->save($smallPath);
             }
         }
         catch(\Exception $e)

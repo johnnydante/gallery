@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc5e5457-a0c8-45be-a95c-d33c499fdc4a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/GalleryController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/GalleryController.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,7 +199,7 @@
       <workItem from="1558961971412" duration="7592000" />
       <workItem from="1558971409811" duration="2445000" />
       <workItem from="1558975422227" duration="143000" />
-      <workItem from="1619269164011" duration="332000" />
+      <workItem from="1619269164011" duration="693000" />
     </task>
     <servers />
   </component>
