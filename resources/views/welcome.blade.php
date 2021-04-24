@@ -275,7 +275,7 @@
                 @foreach($photos as $photo)
                     <div class="item-gallery isotope-item bo-rad-10 hov-img-zoom {{ $photo->tag }}">
                         {{--images/photo-gallery-13.jpg--}}
-                        <img src="{{ $photo->filename }}" alt="IMG-GALLERY">
+                        <img src="{{ $photo->filename.'_small' }}" alt="IMG-GALLERY">
 
                         <div class="overlay-item-gallery trans-0-4 flex-c-m">
                             <a class="btn-show-gallery flex-c-m fa fa-search" href="{{ $photo->filename }}" data-lightbox="gallery"></a>
