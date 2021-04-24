@@ -273,9 +273,10 @@
 
             <div class="wrap-gallery isotope-grid flex-w p-l-25 p-r-25">
                 @foreach($photos as $photo)
+                    @php($name = explode('.', $photo->filename))
                     <div class="item-gallery isotope-item bo-rad-10 hov-img-zoom {{ $photo->tag }}">
                         {{--images/photo-gallery-13.jpg--}}
-                        <img src="{{ $photo->filename.'_small' }}" alt="IMG-GALLERY">
+                        <img src="{{ $name[0].'_small'.'.'.$name[1] }}" alt="IMG-GALLERY">
 
                         <div class="overlay-item-gallery trans-0-4 flex-c-m">
                             <a class="btn-show-gallery flex-c-m fa fa-search" href="{{ $photo->filename }}" data-lightbox="gallery"></a>
